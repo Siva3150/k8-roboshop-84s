@@ -4,6 +4,6 @@ metadata:
  name: debug
  namespace: roboshop   
 spec: 
-containers: 
-- name: debug 
-  image: siva3150/debug:v1 
+ containers: 
+ - name: debug 
+   image: siva3150/debug:v1 
