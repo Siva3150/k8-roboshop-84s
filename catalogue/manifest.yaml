@@ -42,7 +42,7 @@ spec:
    - name: catalogue 
      image: siva3150/catalogue:v1
      envFrom: 
-      - ConfigMapRef: 
+      - configMapRef: 
          name: catalogue  
 
 --- 
